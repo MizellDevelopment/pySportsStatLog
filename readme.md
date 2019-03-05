@@ -2,6 +2,7 @@
 
 The initial objective of the project is to be able to watch a soccer game and create statistics with time stamps and basic field location (third of field). The app will have a GUI so it can be used more easily while showing all information inputted.
 
+![UI Mockup](/imgs/pySportsStatLog%20UI%20Mockup.png)
 
 ## Getting Started
 
